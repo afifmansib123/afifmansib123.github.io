@@ -1,0 +1,23 @@
+.product_table{
+    border : 1px solid black;
+    border-spacing: 0ch;
+    font-weight: 400;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+.text-center{
+    text-align : center;
+}
+.text-right{
+    text-align: right;
+}
+.product_table tfoot{
+    background-color: rgb(213, 190, 190);
+}
+.product_table td {
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
